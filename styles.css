@@ -55,7 +55,7 @@ body {
   background: url("./images/pattern-background-desktop.svg") no-repeat top center;
   background-color: var(--color-pb);
   min-height: 100vh;
-  background-size: 120%;
+  background-size: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
